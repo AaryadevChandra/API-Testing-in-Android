@@ -10,3 +10,7 @@ The project uses the Cat Facts API (https://cat-fact.herokuapp.com/) that provid
 fact which was of type string. 
 
 A button view was created to initiate the process of request sending.
+
+
+
+PS - The fancy for loop in the code is to trim the extra '[' and ']'that were hindering the process of parsing the JSON file as the JSON object was not recognising the JSON file as a JSON file.
